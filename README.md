@@ -17,4 +17,4 @@ The goal of this project is to create a simple application to display, search, a
 
 #### Design Mockup
 
-![Alt text](PWEP-iOS-movie-project/tree/master/assets/img.jpg?raw=true "Movie Tab Flow")
+![Alt text](/PWEP-iOS-movie-project/tree/master/assets/img.jpg?raw=true "Movie Tab Flow")
