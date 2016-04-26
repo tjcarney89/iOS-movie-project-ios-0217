@@ -10,7 +10,7 @@ The goal of this project is to create a simple application to display, search, a
 - Tab Bar Controller
 - Navigation Controller
 - Collection View
-- API calls using OMDb API and Bing Search API
+- Accessing a custom API and Bing Search API
 - Scroll View
 - Table View
 - Core Data
