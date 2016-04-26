@@ -21,6 +21,6 @@ The goal of this project is to create a simple application to display, search, a
 
 ![alt text](assets/movie-tab-flow.png?raw=true "Movie Tab Flow")
 
-#### Movie Tab View Flow
+#### Favorites Tab View Flow
 
 ![alt text](assets/favorites-tab-flow.png?raw=true "Movie Tab Flow")
