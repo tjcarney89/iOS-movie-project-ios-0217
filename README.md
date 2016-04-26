@@ -14,3 +14,7 @@ The goal of this project is to create a simple application to display, search, a
 - Scroll View
 - Table View
 - Core Data
+
+#### Design Mockup
+
+
