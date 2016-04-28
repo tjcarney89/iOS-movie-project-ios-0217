@@ -18,8 +18,8 @@ The goal of this project is to create a simple application to display, search, a
 
 #### Movie Tab View Flow
 
-![alt text](assets/movie-tab-flow.png?raw=true "Movie Tab Flow")
+![alt text](http://i.imgur.com/Pyn2wQ2.png "Movie Tab Flow")
 
 #### Favorites Tab View Flow
 
-![alt text](assets/favorites-tab-flow.png?raw=true "Movie Tab Flow")
+![alt text](http://i.imgur.com/ecOonxb.png "Movie Tab Flow")
