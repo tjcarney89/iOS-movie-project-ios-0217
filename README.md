@@ -5,13 +5,12 @@ This repository outlines a post work project for iOS students participating in P
 
 The goal of this project is to create a simple application to display, search, and save favorite movies.
 
-#### Key application frameworks and functionality should include:
+#### Key application frameworks, functionality, and views should include:
 
 - Tab Bar Controller
 - Navigation Controller
 - Collection View
-- Accessing a custom API and Bing Search API
-- Scroll View
+- Accessing OMDb API and Bing Search API
 - Table View
 - Core Data
 
