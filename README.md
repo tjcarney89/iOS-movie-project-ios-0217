@@ -23,3 +23,8 @@ The goal of this project is to create a simple application to display, search, a
 #### Favorites Tab View Flow
 
 ![alt text](http://i.imgur.com/ecOonxb.png "Movie Tab Flow")
+
+## RESOURCES
+
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/Cdruw6lW3lk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=Cdruw6lW3lk">UICollectionReusableView-PWEP-iOS-movie-project</a></p>
+
