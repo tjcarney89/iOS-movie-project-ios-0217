@@ -5,14 +5,15 @@ This repository outlines a post work project for iOS students participating in P
 
 The goal of this project is to create a simple application to display, search, and save favorite movies.
 
-#### Key application frameworks, functionality, and views should include:
+#### Key topics should include:
 
-- Tab Bar Controller
-- Navigation Controller
-- Collection View
-- Accessing OMDb API and Bing Search API
-- Table View
-- Core Data
+- Model objects (e.g., properties, methods, etc.)
+- Views (e.g., collection view cells, etc.)
+- View Controllers (e.g, collection view, table view, etc.)
+- Accessing APIs (e.g., OMDb, etc.)
+- Persistence (e.g., Core Data, etc.)
+- Multithreading (e.g., NSOperationQueue, etc.)
+- Error Handling (e.g., Internet connectivity, etc.)
 
 ## DESIGN MOCKUP
 
@@ -25,6 +26,3 @@ The goal of this project is to create a simple application to display, search, a
 ![alt text](http://i.imgur.com/ecOonxb.png "Movie Tab Flow")
 
 ## RESOURCES
-
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Cdruw6lW3lk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=Cdruw6lW3lk">UICollectionReusableView-PWEP-iOS-movie-project</a></p>
-
