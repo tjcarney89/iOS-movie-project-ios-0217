@@ -1,6 +1,4 @@
-# PWEP-iOS-movie-project
-This repository outlines a post work project for iOS students participating in PWEP.
-
+# iOS-movie-project
 ## GOAL
 
 The goal of this project is to create a simple application to display, search, and save favorite movies.
@@ -11,6 +9,9 @@ The goal of this project is to create a simple application to display, search, a
 - Views (e.g., collection view cells, etc.)
 - View Controllers (e.g, collection view, table view, etc.)
 - Accessing APIs (e.g., OMDb, etc.)
+
+
+### Advanced
 - Persistence (e.g., Core Data, etc.)
 - Multithreading (e.g., NSOperationQueue, etc.)
 - Error Handling (e.g., Internet connectivity, etc.)
@@ -25,4 +26,3 @@ The goal of this project is to create a simple application to display, search, a
 
 ![alt text](http://i.imgur.com/ecOonxb.png "Movie Tab Flow")
 
-## RESOURCES
